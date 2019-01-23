@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "637854856546",
+    "firebase_url": "https://bitcoin-mine-33e8d.firebaseio.com",
+    "project_id": "bitcoin-mine-33e8d",
+    "storage_bucket": "bitcoin-mine-33e8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637854856546:android:c43a888851f685a5",
+        "android_client_info": {
+          "package_name": "com.a09.adam.abrar.spiiin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637854856546-0cqj2t7se5nlvt9icg654v2rathn2bls.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a09.adam.abrar.spiiin",
+            "certificate_hash": "782abbe2b4a39e57cac0fb32b712812e64d6cc4d"
+          }
+        },
+        {
+          "client_id": "637854856546-g383paf8fkp62mkuau377sparcio32op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTlBk9tHI0ze8AYlZRHmQj8G7gju5ZXM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637854856546-g383paf8fkp62mkuau377sparcio32op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
